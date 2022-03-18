@@ -3,7 +3,7 @@
 <iframe src="https://giphy.com/embed/lbIbhWWqdc6JOgPWrV" width="480" height="203" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/lbIbhWWqdc6JOgPWrV">via GIPHY</a></p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/lbIbhWWqdc6JOgPWrV/giphy.gif" >
+  <img src="https://media.giphy.com/media/lbIbhWWqdc6JOgPWrV/giphy.gif">
 </p>
 
 # Analysis of Airbnb Data (Edinburgh/Scotland).
