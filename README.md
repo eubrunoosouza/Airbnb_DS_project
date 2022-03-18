@@ -9,6 +9,10 @@ A very cool initiative by Airbnb is the availability of real data from some of t
 
 This project was only possible because this initiative! Thanks!
 
+<p align="center">
+  <img src="https://github.com/eubrunoosouza/Airbnb_DS_project/blob/02cbf72bd8088dd34f66d64c015f77b9c4781a06/MISC/airbnb.gif">
+</p>
+
 * Exploratory Data Analysis
 * Statistics
 * Python
@@ -16,7 +20,4 @@ This project was only possible because this initiative! Thanks!
 * Data Visualization
 * Geospatial Visualization
 
-<p align="left">
-  <img src="https://github.com/eubrunoosouza/Airbnb_DS_project/blob/02cbf72bd8088dd34f66d64c015f77b9c4781a06/MISC/airbnb.gif">
-</p>
 
