@@ -16,7 +16,7 @@ This project was only possible because this initiative! Thanks!
 * Data Visualization
 * Geospatial Visualization
 
-<p align="center">
+<p align="left">
   <img src="https://github.com/eubrunoosouza/Airbnb_DS_project/blob/02cbf72bd8088dd34f66d64c015f77b9c4781a06/MISC/airbnb.gif">
 </p>
 
